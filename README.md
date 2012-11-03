@@ -5,7 +5,7 @@ Makefile to generate image and html (with map) files from GraphViz's graph files
 
 Requirements:
 * GNU Make
-* Graphviz (graphviz.org)
+* Graphviz (http://graphviz.org)
 
 Tested with:
 * Windows: cygwin make
