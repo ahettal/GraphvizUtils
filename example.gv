@@ -1,0 +1,10 @@
+digraph G {
+    graph [charset=latin1, fontname=Verdana, size=6];
+    A [URL="http://github.com/d13sector/GraphvizUtils/"]
+    A -> B1
+    A -> B2
+    B1 -> C1
+    B1 -> C2
+    B2 -> C3
+    B2 -> C4
+}
